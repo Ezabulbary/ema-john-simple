@@ -1,0 +1,32 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.trash-can {
+    color: #ffffff;
+    width: 90%;
+    background-color: #FF3030;
+    border: 1px solid #95A0A7;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px auto;
+}
+
+.right-arrow {
+    color: #ffffff;
+    width: 90%;
+    background-color: #FF9900;
+    border: 1px solid #95A0A7;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px auto;
+}
