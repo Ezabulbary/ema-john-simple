@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Ema-john
+
+this is live site [ema-john](https://ema-john-shop12.netlify.app/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
